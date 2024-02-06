@@ -1,2 +1,0 @@
-# WetterStation
-College Project 
